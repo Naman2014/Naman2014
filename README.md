@@ -5,7 +5,6 @@ Hey there 👋
 
 I am Naman, a pre-final year UG at IIT Kharagpur. I am a data enthusiast with a deep fascination for the power of data and its potential to drive insights and transformation. I am constantly seeking opportunities to explore and learn more about the world of data, uncovering hidden patterns and extracting valuable information.  Apart from this, I am an integral part of the Design team at MEGALITH, India's largest Civil Engineering fest. I like reading a lot and occasionally writing. I enjoy listening to music.
 
-Want to know more about me? [Check out my portfolio.](https://naman-shankar.streamlit.app/)
 
 ## 📌 Pinned Repositories
 
