@@ -2,7 +2,7 @@
 
 Hey there 👋
 
-I am Naman, a pre-final year UG at IIT Kharagpur. I am a data enthusiast with a deep fascination for the power of data and its potential to drive insights and transformation. I am constantly seeking opportunities to explore and learn more about the world of data, uncovering hidden patterns and extracting valuable information.  Apart from this, I am an integral part of the Design team at MEGALITH, India's largest Civil Engineering fest. I like reading a lot and occasionally writing. I enjoy listening to music.
+I am Naman, a pre-final year UG at IIT Kharagpur. I am a dedicated data enthusiast deeply immersed in the fascinating realms of Natural Language Processing (NLP) and Computer Vision. With a fervor for deciphering the intricacies of data, I specialize in NLP and Computer Vision, utilizing these technologies to extract valuable insights. My journey is driven by the passion to explore innovative solutions, bridging the gap between raw data and meaningful patterns. I am on a mission to transform complex information into actionable intelligence, leveraging advanced techniques to navigate the digital landscape. Join me in unraveling the endless possibilities within data, as we embark on a transformative exploration of NLP and Computer Vision, redefining the boundaries of data science.
 
 
 ## 📌 Pinned Repositories
