@@ -32,7 +32,7 @@ I am Naman, a pre-final year UG at IIT Kharagpur. I am a data enthusiast with a 
 
 <br>
 
-<a href="https://github.com/Naman2014>
+<a href="https://github.com/Naman2014">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman2014&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
